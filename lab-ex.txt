@@ -1,0 +1,9 @@
+LAB EXERCISE
+• Task 1:
+• Set up a basic React Router with two routes: one for a Home page and one for
+An About page. Display the appropriate content based on the URL.
+
+
+• Task 2:
+• Create a navigation bar using React Router’s Link component that allows users to
+switch between the Home, About, and Contact pages.
